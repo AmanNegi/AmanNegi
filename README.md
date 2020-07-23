@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Messaging app
+- 🔭 I’m currently working on a secret project:)
 - 🌱 I’m currently learning Flutter & Web development
 - 👯 I’m looking to collaborate on Flutter Devs
 - 🤔 I’m looking for help with backgound services in flutter.
