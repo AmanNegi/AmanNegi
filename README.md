@@ -6,6 +6,13 @@ My name is Aman Negi and I am a computer science student. I have a strong intere
 - 💬 Ask me anything about Flutter & Android development.
 - 📫 How to reach me: asterjoules@gmail.com
 
+## 📈 Stats
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kaiwalyakoparkar&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaiwalyakoparkar&theme=tokyonight" />
+</p>
+
 ### You can check my apps linked below:
 
 - [Copyable](https://play.google.com/store/apps/details?id=com.aster.copyable)
