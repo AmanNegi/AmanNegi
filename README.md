@@ -8,7 +8,7 @@ My name is Aman Negi and I am a computer science student. I have a strong intere
 
 ## 📈 Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amannegi&theme=tokyonight_duo&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&background=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amannegi&theme=radical&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 ### You can check my apps linked below:
