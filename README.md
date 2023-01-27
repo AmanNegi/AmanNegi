@@ -16,6 +16,8 @@ My name is Aman Negi and I am a computer science student. I have a strong intere
   <img width="48%"  height="25%" src="https://github-readme-streak-stats.herokuapp.com?user=amannegi&theme=modern-lilac2&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" />
 </p> 
 
+[![](https://visitcount.itsvg.in/api?id=amannegi&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
 ### You can check my apps linked below:
 
 - [Copyable](https://play.google.com/store/apps/details?id=com.aster.copyable)
