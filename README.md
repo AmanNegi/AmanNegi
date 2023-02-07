@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 My name is Aman Negi and I am a computer science student. I have a strong interest in mobile development and have developed several projects using Flutter and Android. I am currently expanding my skills by learning ReactJS and NodeJS. I am also actively trying to contribute to open-source projects.
 
 - 🌱 I’m currently learning React and NodeJS.
@@ -6,8 +6,8 @@ My name is Aman Negi and I am a computer science student. I have a strong intere
 - 💬 Ask me anything about Flutter & Android development.
 - 📫 How to reach me: asterjoules@gmail.com
 
-## 📈 Stats
 
+## 📈 Stats ~ [![](https://visitcount.itsvg.in/api?id=amannegi&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
 <p align="center">
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amannegi&theme=modern-lilac2&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 <!--   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amannegi&show_icons=true&theme=merko&hide_border=true" /> -->
@@ -16,7 +16,8 @@ My name is Aman Negi and I am a computer science student. I have a strong intere
   <img width="48%"  height="25%" src="https://github-readme-streak-stats.herokuapp.com?user=amannegi&theme=modern-lilac2&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" />
 </p> 
 
-[![](https://visitcount.itsvg.in/api?id=amannegi&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
+![Aman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=amannegi)
 
 
 ### You can check my apps linked below:
