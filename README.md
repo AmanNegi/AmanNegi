@@ -34,6 +34,16 @@ My name is Aman Negi and I am a computer science student. I have a strong intere
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height"40"/>       
   </p>
 
+## Recent Hackathons
+
+Submitted to | Project Name | Result |
+|:---:|:---:|:---:|
+Hack Around the World 2 | Mystic Melodies | ![](https://img.shields.io/badge/Sponser-Winner-green) |
+MHacks 15 | KindKarma | - | 
+Hack-ccelerate | CoRide | ![](https://img.shields.io/badge/Overall-Second-yellow) |
+LocalVendorApp | Hack-commerce  | - |
+SelfRemedy | HackFit 2 | ![](https://img.shields.io/badge/Overall-Third-yellow) |
+
 ### You can check my apps linked below:
 
 - [Copyable](https://play.google.com/store/apps/details?id=com.aster.copyable)
