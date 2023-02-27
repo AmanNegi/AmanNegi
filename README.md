@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center"> Hi there 👋</h1>
 My name is Aman Negi and I am a computer science student. I have a strong interest in mobile development and have developed several projects using Flutter and Android. I am currently expanding my skills by learning ReactJS and NodeJS. I am also actively trying to contribute to open-source projects.
 
 - 🌱 I’m currently learning React and NodeJS.
@@ -17,7 +17,7 @@ My name is Aman Negi and I am a computer science student. I have a strong intere
 </p> 
 
 
-![Aman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=amannegi)
+![Aman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=amannegi&theme=react)
 
 
 <h3 align="left">Languages and Tools:</h3>
