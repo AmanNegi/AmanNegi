@@ -1,4 +1,7 @@
-<h1 align="center"> Hi there 👋</h1>
+<!-- <h1 align="center"> Hi there 👋</h1> -->
+
+![](/assets/banner.png)
+
 My name is Aman Negi and I am a computer science student. I have a strong interest in mobile development and have developed several projects using Flutter and Android. I am currently expanding my skills by learning ReactJS and NodeJS. I am also actively trying to contribute to open-source projects.
 
 - 🌱 I’m currently learning React and NodeJS.
