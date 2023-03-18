@@ -1,6 +1,4 @@
-<!-- <h1 align="center"> Hi there 👋</h1> -->
-
-![](/assets/banner.png)
+<h1 align="center"> Hi there 👋</h1>
 
 My name is Aman Negi and I am a computer science student. I have a strong interest in mobile development and have developed several projects using Flutter and Android. I am currently expanding my skills by learning ReactJS and NodeJS. I am also actively trying to contribute to open-source projects.
 
@@ -9,7 +7,7 @@ My name is Aman Negi and I am a computer science student. I have a strong intere
 - 💬 Ask me anything about Flutter & Android development.
 - 📫 How to reach me: asterjoules@gmail.com
 
-![](/assets/divider.png)
+------
 
 ## 📈 Stats ~ [![](https://visitcount.itsvg.in/api?id=amannegi&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
 <p align="center">
@@ -23,7 +21,7 @@ My name is Aman Negi and I am a computer science student. I have a strong intere
 
 ![Aman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=amannegi&theme=react)
 
-![](/assets/divider.png)
+------
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
@@ -39,7 +37,7 @@ My name is Aman Negi and I am a computer science student. I have a strong intere
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height"40"/>       
   </p>
 
-![](/assets/divider.png)
+------
 
 ## Recent Hackathons
 
@@ -51,7 +49,7 @@ Hack-ccelerate | CoRide | ![](https://img.shields.io/badge/Overall-Second-yellow
 LocalVendorApp | Hack-commerce  | - |
 SelfRemedy | HackFit 2 | ![](https://img.shields.io/badge/Overall-Third-yellow) |
 
-![](/assets/divider.png)
+------
 
 ### You can check my apps linked below:
 
