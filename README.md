@@ -19,7 +19,9 @@ My name is Aman Negi and I am a computer science student. I have a strong intere
 </p> 
 
 
-![Aman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=amannegi&theme=react)
+<!-- ![Aman's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=amannegi&theme=react) -->
+![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amannegi)
+
 
 ------
 
