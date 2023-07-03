@@ -2,7 +2,7 @@
 
 My name is Aman Negi and I am a computer science student. I have a strong interest in mobile development and have developed several projects using Flutter and Android. I am currently expanding my skills by learning ReactJS and NodeJS. I am also actively trying to contribute to open-source projects.
 
-- 🌱 I’m currently learning React and NodeJS.
+- 🌱 I’m currently learning NextJS.
 - 👯 I’m looking to contribute on open source projects.
 - 💬 Ask me anything about Flutter & Android development.
 - 📫 How to reach me: asterjoules@gmail.com
