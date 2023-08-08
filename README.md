@@ -84,6 +84,7 @@ I'm Aman Negi, a passionate computer science student with a flair for mobile dev
 ------
 ## PR's I'm proud of
 
+- https://github.com/AppFlowy-IO/AppFlowy/pull/2750
 - https://github.com/flutter/packages/pull/3321
 - https://github.com/AppFlowy-IO/AppFlowy/pull/1870
 - https://github.com/AppFlowy-IO/AppFlowy/pull/1910
