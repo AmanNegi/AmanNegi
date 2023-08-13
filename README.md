@@ -1,3 +1,4 @@
+![banner](./assets/github_banner.png)
 <h1 align="center"> Hi there 👋</h1>
 
 <!-- My name is Aman Negi and I am a computer science student. I have a strong interest in mobile development and have developed several projects using Flutter and Android. I am currently expanding my skills by learning ReactJS and NodeJS. I am also actively trying to contribute to open-source projects. -->
