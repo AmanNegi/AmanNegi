@@ -3,12 +3,6 @@
 ![banner](./assets/github_banner.png)
 ## <h1 align="center"> Hi there 👋</h1>
 
-
-
-<div style="float:right;margin:0 10px 0 10px">
-    <img style="height:25vh" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="animated" />
-</div>
-
 I'm Aman Negi, a passionate computer science student with a flair for mobile development. I've been crafting projects using Flutter and Android that make me proud. But that's not all – I'm broadening my horizons by diving into the realms of ReactJS and NextJS. Besides, I'm an eager beaver when it comes to contributing to open-source projects.
 
 
