@@ -17,7 +17,7 @@ I'm Aman Negi, a passionate computer science student with a flair for mobile dev
 - 💬 Ask me anything about Flutter & Android development.
 - 📫 How to reach me: asterjoules@gmail.com
 
----
+
 ## 📈 Stats ~ [![](https://visitcount.itsvg.in/api?id=amannegi&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <p align="center" style="display:flex;">
@@ -38,7 +38,7 @@ I'm Aman Negi, a passionate computer science student with a flair for mobile dev
   </a>
 </p>
 
-------
+
 ## PR's I'm proud of
 
 - https://github.com/AppFlowy-IO/AppFlowy/pull/2750
@@ -47,7 +47,6 @@ I'm Aman Negi, a passionate computer science student with a flair for mobile dev
 - https://github.com/AppFlowy-IO/AppFlowy/pull/1910
 - https://github.com/AppFlowy-IO/AppFlowy/pull/1923
 
-------
 
 ## Recent Hackathons
 
