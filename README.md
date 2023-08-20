@@ -3,8 +3,7 @@
 ## <h1 align="center"> Hi there 👋</h1>
 
 <div align="center>
-
-
+  
 I'm Aman Negi, a passionate computer science student with a flair for mobile development. I've been crafting projects using Flutter and Android that make me proud. But that's not all – I'm broadening my horizons by diving into the realms of ReactJS and NextJS. Besides, I'm an eager beaver when it comes to contributing to open-source projects.
 
 
