@@ -12,7 +12,7 @@ I'm Aman Negi, a passionate computer science student with a flair for mobile dev
 - 💬 Ask me anything about Flutter & Android development.
 - 📫 How to reach me: asterjoules@gmail.com
 
-<div align="center">
+<!-- <div align="center"> -->
 
 ## 📈 Stats ~ [![](https://visitcount.itsvg.in/api?id=amannegi&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
@@ -71,4 +71,4 @@ SelfRemedy | HackFit 2 | ![](https://img.shields.io/badge/Overall-Third-yellow) 
 
 [![An image of @asterjoules's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/asterjoules)](https://holopin.io/@asterjoules)
 
-</div>
+<!--</div>-->
