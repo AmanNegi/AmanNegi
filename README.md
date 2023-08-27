@@ -2,7 +2,7 @@
 
 ## <h1 align="center"> Hi there 👋</h1>
 
-<div align="center">
+
 
 
 I'm Aman Negi, a passionate computer science student with a flair for mobile development. I've been crafting projects using Flutter and Android that make me proud. But that's not all – I'm broadening my horizons by diving into the realms of ReactJS and NextJS. Besides, I'm an eager beaver when it comes to contributing to open-source projects.
@@ -12,7 +12,7 @@ I'm Aman Negi, a passionate computer science student with a flair for mobile dev
 - 💬 Ask me anything about Flutter & Android development.
 - 📫 How to reach me: asterjoules@gmail.com
 
-
+<div align="center">
 
 ## 📈 Stats ~ [![](https://visitcount.itsvg.in/api?id=amannegi&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
