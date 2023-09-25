@@ -25,7 +25,7 @@ I'm Aman Negi, a passionate computer science student with a flair for mobile dev
 
 
 ![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amannegi&theme=aqua)
-
+> Note: The number of contributions is subject to college exams. 😂
 
 ## <h1>Languages and Tools<h1>
 <p align="center">
